@@ -1,0 +1,1 @@
+export { DoctorFiltersClient } from "./doctors-filters-client";
